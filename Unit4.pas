@@ -8,17 +8,8 @@ uses
 
 type
   TForm4 = class(TForm)
-    Edit1: TEdit;
-    Edit2: TEdit;
-    Edit3: TEdit;
-    Edit4: TEdit;
-    Button1: TButton;
     Label1: TLabel;
-    Edit5: TEdit;
-    Edit6: TEdit;
-    Button2: TButton;
     Label2: TLabel;
-    Memo1: TMemo;
     Label3: TLabel;
     Label4: TLabel;
     Label5: TLabel;
@@ -26,6 +17,15 @@ type
     Label7: TLabel;
     Label8: TLabel;
     Label9: TLabel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Edit3: TEdit;
+    Edit4: TEdit;
+    Button1: TButton;
+    Edit5: TEdit;
+    Edit6: TEdit;
+    Button2: TButton;
+    Memo1: TMemo;
   private
     { Private declarations }
   public
