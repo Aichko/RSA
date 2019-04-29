@@ -79,7 +79,7 @@ object Form4: TForm4
   object Label10: TLabel
     Left = 278
     Top = 65
-    Width = 10
+    Width = 3
     Height = 13
   end
   object Edit1: TEdit
@@ -144,6 +144,7 @@ object Form4: TForm4
     Height = 25
     Caption = 'Button2'
     TabOrder = 7
+    OnClick = Button2Click
   end
   object Memo1: TMemo
     Left = 357
